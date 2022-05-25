@@ -14,7 +14,7 @@ public class JavaApplication1 {
     
        
     /**
-     * @param args the command line arguments
+     * @param args the c ommand line arguments
      */
     public static void main(String[] args) {
         Scanner key = new Scanner(System.in);
